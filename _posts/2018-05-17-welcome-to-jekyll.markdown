@@ -3,7 +3,7 @@ layout: post
 title:  "Mysql服务的搭建与安全配置"
 date:   2020-10-16 14:05:21 +0800
 tags: mysql
-color: 	rgb(255,250,205)
+color: rgb(135,206,250)
 cover: 'http://qqpublic.qpic.cn/qq_public/0/0-2617900933-EB99ECDA523A42E46FC6A268DDD63A83/0?fmt=jpg&size=57&h=1244&w=700&ppv=1'
 description: '这篇文章只用来做简单的Mysql搭建示范'
 ---
