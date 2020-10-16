@@ -1,28 +1,25 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-05-17 14:05:21 +0800
-tags: jekyll update
+title:  "Mysql服务的搭建与安全配置"
+date:   2020-10-16 14:05:21 +0800
+tags: mysql
 color: rgb(255,90,90)
-cover: '../assets/test.png'
-subtitle: 'Welcome to Jekyll!'
+cover: 'http://qqpublic.qpic.cn/qq_public/0/0-2617900933-EB99ECDA523A42E46FC6A268DDD63A83/0?fmt=jpg&size=57&h=1244&w=700&ppv=1'
+description: '这篇文章只用来做简单的Mysql搭建示范'
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+## 标题
+`代码块code`
 
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
+print_hi('wn')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+[这是一个超链接][这是一个超链接]
+这是[小宝贝][小宝贝]的Github地址
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+>这是一个引文
+
+[这是一个超链接]: https://baidu.com
+[小宝贝]:   https://github.com/Menggggg
