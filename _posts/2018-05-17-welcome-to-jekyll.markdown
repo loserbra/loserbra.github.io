@@ -5,14 +5,14 @@ date:   2020-12-18 21:01:00 +0800
 tags: python
 color: rgb(135,206,250)
 cover: 'http://qqpublic.qpic.cn/qq_public/0/0-2617900933-EB99ECDA523A42E46FC6A268DDD63A83/0?fmt=jpg&size=57&h=1244&w=700&ppv=1'
-description: '这篇文章windows7系统填坑安装pip的过程'
+description: '这篇文章时windows7系统填坑安装pip的过程'
 ---
 
 
 
-## pip install 
+## windows7安装pip时遇到的一些问题填坑
 
-windows7安装pip时遇到的一些问题填坑
+​    安装python后，需要用pip安装一些库，这是安装pip的过程和中间遇到的一些问题
 
 1. 首先去鼠标右键我的电脑  -> 属性 -> 高级系统设置 -> 环境变量 -> 编辑PATH -> 在最后面加上我们的Python安装路径 -> 点击确定
 
